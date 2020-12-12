@@ -837,7 +837,4 @@ void sendNotification(String message){
   Serial.println("- stopping the client");
 }
 
-//Access token : o.cJsdp7uEtMMFuCVk7W6UQM7XyGi5PbFt
-//String deviceId = "v48A5C3877FA065A";
-//const char* logServer = "api.pushingbox.com";
-//sendNotification("Emergency! Fall detected.");
+
